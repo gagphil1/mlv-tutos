@@ -1,0 +1,15 @@
+[submodule "repos/handson-ml"]
+	path = repos/handson-ml
+	url = https://github.com/ageron/handson-ml
+[submodule "repos/imutils"]
+	path = repos/imutils
+	url = https://github.com/jrosebr1/imutils.git
+[submodule "repos/object-detector"]
+	path = repos/object-detector
+	url = https://github.com/bikz05/object-detector.git
+[submodule "repos/yolo-tf"]
+	path = repos/yolo-tf
+	url = https://github.com/ruiminshen/yolo-tf.git
+[submodule "repos/models"]
+	path = repos/models
+	url = https://github.com/tensorflow/models.git
