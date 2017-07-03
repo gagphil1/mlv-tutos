@@ -13,3 +13,9 @@
 [submodule "repos/models"]
 	path = repos/models
 	url = https://github.com/tensorflow/models.git
+[submodule "repos/trainHOG"]
+	path = repos/trainHOG
+	url = https://github.com/DaHoC/trainHOG.git
+[submodule "repos/ultrasound-nerve-segmentation"]
+	path = repos/ultrasound-nerve-segmentation
+	url = https://github.com/jocicmarko/ultrasound-nerve-segmentation.git
